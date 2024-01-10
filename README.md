@@ -24,5 +24,5 @@ docker build -t flask1:latest .
 
 ### Docker Run
 ```
-docker run -dit -p 5252:5252 flask1:latest
+docker run -dit -p 5252:5252 flask-test:latest
 ```
